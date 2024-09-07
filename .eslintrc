@@ -1,0 +1,4 @@
+{
+  "extends": ["plugin:tailwindcss/recommended", "@trouni"],
+  "plugins": ["tailwindcss"]
+}
